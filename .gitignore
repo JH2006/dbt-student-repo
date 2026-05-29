@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Logs
+logs/
+
+# dbt credentials & keys
+profiles.yml
+*.p8
+*.pem
+rsa_key*
